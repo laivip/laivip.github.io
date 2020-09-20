@@ -1,0 +1,32 @@
+Package: com.laivip.lvnap
+Name: Lv Nạp
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Filename: ./debs/lvnap.deb
+MD5sum:06a860dcfb9774d5f11284881f404d23
+SHA1:fee8d89c9a1d7b55586d072b8e70a20b722f85cc
+SHA256:fcde23c9bbd9d11721c291cdcfb51a8e0ca80adddd191836df92c853c6bae6f4
+Size:130256
+Description: Lv
+Section: Lv
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Lv 
+Author: Lv
+Installed-Size: 456
+
+Package: com.laivip.lvxa
+Name: Lv Xả
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/lvxa.deb
+MD5sum:19bab4c1804cbc385fec48629ffe3caf
+SHA1:db39292e49068b9f2e919d46eccfd93ec4b05c7f
+SHA256:1cd358495d264528f987a8db6fa8b9c624d62d56b0787fb2e428a5b9490c7b05
+Size:72242
+Description: Lv
+Section: Lv
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Lv 
+Author: Lv
+Installed-Size: 240
+
