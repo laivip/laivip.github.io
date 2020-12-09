@@ -30,3 +30,19 @@ Maintainer: Lv
 Author: Lv
 Installed-Size: 240
 
+Package: com.laivip.xamoi
+Name: Xả Mới
+Version: 0.0.1-158+debug
+Architecture: iphoneos-arm
+Filename: ./debs/xamoi.deb
+MD5sum:70764798fa32962c2dc90cfbadaed18b
+SHA1:9af53aaa2c85602342088fa41fb3d59fc2e5afdf
+SHA256:4c5b672aa4350a45bda404c21014d5be4e80a02a27b64c2c678abe17ede1f40d
+Size:53818
+Description: Lv
+Section: Lv
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Lv 
+Author: Lv
+Installed-Size: 248
+
